@@ -1,0 +1,34 @@
+body{
+  background-image: url('https://images.pexels.com/photos/76969/cold-front-warm-front-hurricane-felix-76969.jpeg?cs=srgb&dl=pexels-pixabay-76969.jpg&fm=jpg');
+  background-size: cover;
+  
+}
+
+.card {
+  max-width: max-content;
+  align-items: center;
+  justify-content: center;
+  background-color: gray ;
+  box-shadow: 2px 2px 5px #fff;
+  opacity: 70%;
+  color: black;
+  font-size: 20px;
+  padding: 20px 20px;
+  border-radius: 10px;
+  margin:  auto;
+  margin-top: 100px;
+}
+
+.loader{
+  font-size: 40px;
+  color: white;
+}
+
+.btnTemp {
+  background-color: red;
+  border-radius: 10px;
+  border: none;
+  color: white;
+  box-shadow: 2px 2px 5px #fff;
+}
+
